@@ -15,5 +15,5 @@ jobs:
         args: --acl public-read --follow-symlinks --delete --exclude '.git*/*'
       env:
         AWS_S3_BUCKET: dummy-bucket011
-        AWS_ACCESS_KEY_ID: AKIA6ODU7KKUMPKPUCYBkey
-        AWS_SECRET_ACCESS_KEY: PO/TzJQlK+j5VuDt/daF49jV+Qui1XFHS7wNFCOB
+        AWS_ACCESS_KEY_ID: AKIA6ODU7KKUBR6Y7T7C
+        AWS_SECRET_ACCESS_KEY: JqgDKQNGIo9BT79uYrEQ3aIVUnkGkKDq
